@@ -15,8 +15,12 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "nerdamer": "^1.1.13",
+    "netlify-cli": "^17.33.0",
     "nodemon": "^3.1.4",
     "poly-roots": "^1.0.8",
     "polynomial": "^1.4.5"
+  },
+  "devDependencies": {
+    "netlify-lambda": "^2.0.16"
   }
 }
